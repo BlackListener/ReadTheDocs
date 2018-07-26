@@ -1,5 +1,5 @@
 ============
-ボットの導入
+Invite the Bot
 ============
 
-ボットの導入は https://discordapp.com/oauth2/authorize?client_id=456966161079205899&permissions=8&scope=bot からお願いします。
+You can invite the Bot from https://discordapp.com/oauth2/authorize?client_id=456966161079205899&permissions=8&scope=bot .

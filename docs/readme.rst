@@ -1,16 +1,18 @@
 ============
-最初に
+Getting Started
 ============
 
- * DiscordのBlackListenerの説明書です。
- * このサイトではSSL/TLSは現時点ではサポートされていません。
- * https://blacklistener.tk は現在未完成、もしくは開けません。
+ * Documentation of BlackListener on Discord.
+ * Not supported SSL/TLS on this site.
+ * https://blacklistener.tk is now incomplete or cannot open.
 
-ボットの導入
+Invite the bot
 ====
 
-`DiscordBotsのサイト <https://asyn.cf/dbl>`_ から導入してください。
+Please invite at `DiscordBots <https://asyn.cf/dbl>`_ .
 
-サポート
+Support
 ====
-困ったこと、誤BANの解除申請は、 `サポートサーバー <https://asyn.cf/bls>`_ 、またはDMまでお知らせください。
+If you want a support, and you are invalid banned?
+Please notice to us!
+`Support server <https://asyn.cf/bls>`_ or DM(To Lead Developer)
